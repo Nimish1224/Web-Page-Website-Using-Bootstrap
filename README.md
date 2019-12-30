@@ -4,4 +4,4 @@ Build website with the help of bootstrap
 
 You can use this template to create your own website.  ;) check below link --/
 
-https://github.com/Nimish1224/web-page-website-using-Bootstrap/project.html
+https://nimish1224.github.io/web-page-website-using-Bootstrap/project.html
